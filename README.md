@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pranav Arora
-- 👀 I’m interested in Computer vision , NLP and a bit of Robotics.
-- 🌱 I’m currently learning about Neural Networks. 
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 👀 I’m interested in DevOps and Cloud.
+- 🌱 I’m currently learning GoLang. 
+- 💞️ I’m looking to collaborate on projects.
 - 📫 twitter: @pranavintech
 
 <!---
