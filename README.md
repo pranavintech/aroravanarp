@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranav Arora
 - 👀 I’m interested in DevOps and Cloud.
-- 🌱 I’m currently learning GoLang. 
+- 🌱 I’m currently learning Docker. 
 - 💞️ I’m looking to collaborate on projects.
 - 📫 twitter: @pranavintech
 
