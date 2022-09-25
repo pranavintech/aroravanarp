@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranav Arora
-- 👀 I’m interested in DevOps and Cloud.
-- 🌱 I’m currently learning Docker. 
+- 👀 I’m interested in Blockchain Development.
+- 🌱 I’m currently learning web development. 
 - 💞️ I’m looking to collaborate on projects.
 - 📫 twitter: @pranavintech
 
