@@ -30,10 +30,4 @@ I'm a passionate Flutter developer with experience in various technologies. Welc
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/pranav-arora-440099221/)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">](https://youtube.com/@primalpranav)
 
-## GitHub Stats
 
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav-arora&show_icons=true&theme=dark)
-
-## GitHub Contributions
-
-![Pranav's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=pranav-arora&theme=dark)
